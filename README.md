@@ -1,3 +1,4 @@
+# Isso aqui foi um exercicio para a materia grupos e aneis quando estava fazendo matematica ainda
 ## Soluções
 
 $S=\{a,b,c,d \}$
